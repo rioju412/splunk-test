@@ -1,0 +1,8 @@
+{
+    "splunk":{
+        "server":"your server name",
+        "username":"your username",
+        "password":"your password",
+        "token":"your token"
+    }
+}
